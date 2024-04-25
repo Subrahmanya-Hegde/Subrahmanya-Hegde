@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Go, React**
 
-- 👯 I’m looking to collaborate on **services which we use in building applications.**
+- 👯 I’m looking to collaborate on **backend projects**
 
 - 💬 Ask me about **Backend development**
 
