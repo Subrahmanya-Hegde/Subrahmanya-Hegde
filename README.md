@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/subbu_v_hegde" target="blank"><img src="https://img.shields.io/twitter/follow/subbu_v_hegde?logo=twitter&style=for-the-badge" alt="subbu_v_hegde" /></a> </p>
 
-- 🔭 I’m currently working on **backend projects.**
+- 🔭 I’m currently learning and started basic **algo trading.**
 
 - 🌱 I’m currently learning **Go, React**
 
