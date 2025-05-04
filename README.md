@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently learning and started basic **algo trading.**
 
-- 🌱 I’m currently learning **Go, React**
+- 🌱 I’m currently learning **Python, algo trading, quant stuffs.**
 
-- 👯 I’m looking to collaborate on **services which we use in building applications.**
+- 👯 I’m looking to collaborate on **services which involves quant engineering.**
 
 - 💬 Ask me about **Backend development**
 
