@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/subbu_v_hegde" target="blank"><img src="https://img.shields.io/twitter/follow/subbu_v_hegde?logo=twitter&style=for-the-badge" alt="subbu_v_hegde" /></a> </p>
 
-- 🔭 I’m currently learning and started basic **algo trading.**,  **Python and quant stuffs.**
+- 🔭 I’m currently learning and started basic **algo trading**, **Python and quant stuffs.**
 
 - 👯 I’m looking to collaborate on **services which involves quant engineering.**
 
